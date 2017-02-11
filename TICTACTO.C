@@ -1,3 +1,11 @@
+/*######################################################
+  #						       #
+  # 		    TIC TAC TOE                        #
+  #		      by varunzxzx                     #
+  #						       #
+  #        ________________________________            #
+  #         http://noobsvilla.blogspot.com             #
+  ######################################################*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
